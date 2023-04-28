@@ -1,4 +1,4 @@
-# cgp
+# ChatGPT integration in flutter
 
 A new Flutter project.
 
